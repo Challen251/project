@@ -1,2 +1,3 @@
 [users]
-Shark_Skleers=1
+Shark_Skleers[PC]=1
+Shark_Skleers[PC][VIP]=1
