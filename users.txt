@@ -1,3 +1,4 @@
+[checker]
 nick1=Vadim_Stasenko
 nick2=
 nick3=
