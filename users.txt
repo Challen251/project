@@ -1,3 +1,9 @@
-[users]
-user1='Shark_Skleers[PC]'
-user2='Shark_Skleers[PC][VIP]'
+nick1=Vadim_Stasenko
+nick2=
+nick3=
+nick4=
+nick5=
+nick6=
+nick7=
+nick8=
+nick9=
